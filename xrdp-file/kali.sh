@@ -1,6 +1,6 @@
 #echo -e "$123\n$123\n" | sudo passwd
 echo "Download Ngrok"
-wget https://raw.githubusercontent.com/RizzyFuzz/storage/main/ngrok.sh && chmod +x ngrok.sh && ./ngrok.sh
+wget https://raw.githubusercontent.com/wyuliyanto/RDP-test/main/ngrok.sh && chmod +x ngrok.sh && ./ngrok.sh
 echo "===================================="
 echo "===================================="
 echo "Install RDP"
